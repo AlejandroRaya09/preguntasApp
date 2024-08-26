@@ -1,8 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
 .material-symbols-outlined{
     font-family: 'Material Icons' !important;
+    float: right;
 }
 
 body{
     background-color: #23b682;
+}
+
+.material-symbols-outlined.incorrect{
+    color: #da2d2d;
+    font-size: 18px;
+}
+.material-symbols-outlined.correct{
+    color: #17a2b8;
+    font-size: 18px;
 }
