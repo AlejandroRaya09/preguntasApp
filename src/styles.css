@@ -2,3 +2,7 @@
 .material-symbols-outlined{
     font-family: 'Material Icons' !important;
 }
+
+body{
+    background-color: #23b682;
+}
